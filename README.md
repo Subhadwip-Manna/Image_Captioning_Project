@@ -30,7 +30,7 @@ LSTM will use the information from CNN to help generate a description of the ima
 ![image](https://github.com/Subhadwip-Manna/Image_Captioning_Project/assets/140252649/860c60fd-afc8-4fca-9806-a00dbf4743ac)  
 
 # Project File Structure
-Downloaded from the dataset:
+You need to download from Kaggle:
 
 Flicker8k_Dataset – Dataset folder which contains 8091 images.  
 Flickr_8k_text – Dataset folder which contains text files and captions of images.

@@ -1,5 +1,7 @@
 # Image_Captioning_Project
-![Screenshot 2023-09-13 111021](https://github.com/Subhadwip-Manna/Image_Captioning_Project/assets/140252649/18229137-9f66-4816-8aa0-37c11e99f6cf)
+![Screenshot 2023-09-13 111021](https://github.com/Subhadwip-Manna/Image_Captioning_Project/assets/140252649/18229137-9f66-4816-8aa0-37c11e99f6cf)  
+![Screenshot 2023-09-13 111855](https://github.com/Subhadwip-Manna/Image_Captioning_Project/assets/140252649/862396a1-74c4-43d8-98e7-b4c6836f7bf8)
+
 
 # What is Image Caption Generator?
 Image caption generator is a task that involves computer vision and natural language processing concepts to recognize the context of an image and describe them in a natural language like English.
@@ -28,9 +30,9 @@ LSTM will use the information from CNN to help generate a description of the ima
 ![image](https://github.com/Subhadwip-Manna/Image_Captioning_Project/assets/140252649/860c60fd-afc8-4fca-9806-a00dbf4743ac)  
 
 # Project File Structure
-Downloaded from dataset:
+Downloaded from the dataset:
 
-Flicker8k_Dataset – Dataset folder which contains 8091 images.
+Flicker8k_Dataset – Dataset folder which contains 8091 images.  
 Flickr_8k_text – Dataset folder which contains text files and captions of images.
 
 
